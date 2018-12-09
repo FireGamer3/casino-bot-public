@@ -1,0 +1,29 @@
+{
+  "name": "casinodjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ./CasinoBot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "bufferutil": "^3.0.5",
+    "dateformat": "^3.0.2",
+    "dblapi.js": "^1.1.0",
+    "disnode-extra": "^0.2.13",
+    "disnode-lang": "^0.2.0",
+    "disnode-logger": "^0.2.0",
+    "eris": "^0.8.6",
+    "erlpack": "github:abalabahaha/erlpack",
+    "mongodb": "^2.2.33",
+    "numeral": "^2.0.6",
+    "restify": "^7.2.1",
+    "snekfetch": "^4.0.4",
+    "table": "^4.0.2",
+    "text-table": "^0.2.0",
+    "uniqid": "^4.1.1"
+  }
+}
